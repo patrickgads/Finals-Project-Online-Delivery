@@ -1,0 +1,16 @@
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\bin\Debug\Finals Project.exe.config
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\bin\Debug\Finals Project.exe
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\bin\Debug\Finals Project.pdb
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\bin\Debug\Finals Project.xml
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.vbprojResolveAssemblyReference.cache
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\MainWindow.g.vb
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Application.g.vb
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project_MarkupCompile.cache
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project_MarkupCompile.lref
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\MainWindow.baml
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.g.resources
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals_Project.Resources.resources
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.vbproj.GenerateResource.Cache
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.exe
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.xml
+C:\Users\patrickgads\Desktop\VB PROJ\Finals Project\Finals Project\obj\Debug\Finals Project.pdb
